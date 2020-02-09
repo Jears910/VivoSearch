@@ -1,9 +1,9 @@
 # VivoSearch
 Required Dependecies:
-js-combinatorics
-math
-cheerio
-crawler
-fs
+js-combinatorics <br/>
+math <br/>
+cheerio <br/>
+crawler <br/>
+fs <br/>
 
 [Website](https://www.vivosearch.xyz)
