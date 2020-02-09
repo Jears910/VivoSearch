@@ -1,5 +1,5 @@
 # VivoSearch
-Required Dependecies:
+Required Dependecies: <br/>
 js-combinatorics <br/>
 math <br/>
 cheerio <br/>
