@@ -8,7 +8,7 @@ const fs = require('fs');
 function changeVideoID(ID) {
   var VideoID = ID
 }
-console.log(Combinatorics.baseN(['a','b','c'], 10).toArray())
+console.log(Combinatorics.baseN(['a','b','c','d','e'], 10).toArray())
 //code | URL
 const Base = 'https://vivo.sx/'
 var VideoID =  '2d3930ac27'
@@ -20,7 +20,6 @@ var c = new Crawler({
             console.log(error);
         }else{
             var $ = res.$;
-            // $ is Cheerio by default
             var RawTitle = $("h1").text()
             var Proc1Title = RawTitle.split('(')[0]
             var Title = Proc1Title.slice(6, -1)
